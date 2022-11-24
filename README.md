@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Identificación de los peligros y riesgos en la implementación de la red de datos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF7_228116_IDENTIFICACION_PELIGROS_IMPLEMENTACION_RED_DATOS/#/](https://sena-externos.github.io/CF7_228116_IDENTIFICACION_PELIGROS_IMPLEMENTACION_RED_DATOS/#/)
 
 #
 

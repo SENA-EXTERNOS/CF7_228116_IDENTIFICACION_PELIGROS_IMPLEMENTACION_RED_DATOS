@@ -2,13 +2,33 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 47%
+    right: 90%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 30%
+    right: 15%
+  &-3
+    animation: zoom-in-zoom-out 5.8s linear infinite
+    position: absolute
+    top: 49%
+    right: 56% 
+  &-4
+    animation: zoom-in-zoom-out 5.8s linear infinite
+    position: absolute
+    top: 9%
+    right: 62% 
+  &-5
+    animation: zoom-in-zoom-out 5.8s linear infinite
+    position: absolute
+    top: 36%
+    right: 64% 
+  &-6
+    animation: zoom-in-zoom-out 5.8s linear infinite
+    position: absolute
+    top: 26%
+    right: 43% 
 
 
 @keyframes float1
@@ -17,6 +37,20 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes zoom-in-zoom-out
+  0% 
+    transform: scale(1, 1);
+  
+  50% 
+    transform: scale(1.5, 1.5);
+  
+  100% 
+    transform: scale(1, 1);
+
+
+
+
 
 .bg_1
   background: linear-gradient(90deg, rgba(77,208,225,1) 44%, rgba(61,166,180,1) 98%);
