@@ -17,7 +17,7 @@
 
     p.mb-5 En el ambiente del proceso de instalación de redes, tanto las eléctricas como de datos, los peligros son latentes, es por esto la importancia que se conozcan a cuáles se va a estar expuestos en los procesos de actualización tecnológica.
 
-    separador
+    
     #t_1_1.titulo-segundo.color-acento-contenido.mt-5
       h2 1.1 Identificación de peligros
 
@@ -94,31 +94,31 @@
     .row.mb5
       .col-lg-8.mb-4.mb-md-0
         TabsA.color-acento-botones.mb-5
-          .tarjeta.bg_4.p-4(titulo="Peligro mecánico")
+          .tarjeta.bg_4.p-4(titulo="Peligro<br> mecánico")
             h4 Peligro mecánico
             p Es el conjunto de condiciones que, en el momento de presentarse, pueden dar lugar a una lesión por manipulación de máquinas que estén en movimiento, herramientas, piezas de trabajo o materiales sólidos o fluidos
-          .tarjeta.bg_4.p-4.tb(titulo="Peligro locativo")
+          .tarjeta.bg_4.p-4.tb(titulo="Peligro<br> locativo")
             h4 Peligro locativo
             p Es aquel que se presenta cuando se está realizando alguna modificación o construcción de una obra civil, presentándose cuando las características de diseño, construcción, mantenimiento y deterioro de las instalaciones locativas, pueden ocasionar lesiones a los trabajadores, o incomodidades para desarrollar el trabajo, así como daños a los materiales  de la empresa como pisos, escalera, barandas, plataformas, andamios defectuosos, muros, puertas, ventanas en mal estado, techos en mal estado, superficies deslizantes, entre otros.
-          .tarjeta.bg_4.p-4.tb_1(titulo="Peligro psicosocial")
+          .tarjeta.bg_4.p-4.tb_1(titulo="Peligro<br> psicosocial")
             h4 Peligro psicosocial
             p Es aquel que se presenta como consecuencia de la interacción con el ambiente de trabajo, según las condiciones de la organización laboral y las necesidades, hábitos, capacidades y demás aspectos personales del trabajador y su entorno social, que en un momento dado pueden generar cargas que afectan la salud, el rendimiento en el trabajo y la producción laboral.
-          .tarjeta.bg_4.p-4.tb_2(titulo="Peligro biomecánico")
+          .tarjeta.bg_4.p-4.tb_2(titulo="Peligro<br> biomecánico")
             h4 Peligro biomecánico
             p Es aquella contingencia que involucra agentes o situaciones que tiene que ver con la adecuación del trabajo, o los elementos de trabajo que influyen en la fisionomía humana. Representa los objetos, puestos de trabajo, máquinas, equipos y herramientas cuyo peso, tamaño, forma y diseño pueden provocar sobre esfuerzo, así como posturas y movimientos inadecuados que traen como consecuencia fatiga física y lesiones osteomusculares.
-          .tarjeta.bg_4.p-4.tb_3(titulo="Peligros físicos")
+          .tarjeta.bg_4.p-4.tb_3(titulo="Peligros<br> físicos")
             h4 Peligros físicos
             p Son todos aquellos factores ambientales que dependen de las propiedades físicas de los cuerpos que actúan sobre los tejidos y órganos del cuerpo del trabajador y que pueden producir efectos nocivos de acuerdo a la intensidad y tiempo de exposición de los mismos, como iluminación, ruido, vibraciones, radiaciones, temperaturas extremas, entre otros.
-          .tarjeta.bg_4.p-4.tb_4(titulo="Peligro físico químico")
+          .tarjeta.bg_4.p-4.tb_4(titulo="Peligro<br> físico químico")
             h4 Peligro físico químico
             p En este grupo se incluyen todos los objetos, elementos, sustancias, fuentes de calor, que, en ciertas condiciones especiales de inflamabilidad, combustibilidad o de defectos, pueden desencadenar incendios y / o explosiones y, generar lesiones personales y daños materiales. Pueden presentarse por incompatibilidad fisicoquímica en el almacenamiento de materias primas, presencia de materias y sustancias combustibles, presencia de sustancias químicas reactivas.
-          .tarjeta.bg_4.p-4.tb_5(titulo="Peligro biológico")
+          .tarjeta.bg_4.p-4.tb_5(titulo="Peligro<br> biológico")
             h4 Peligro biológico
             p Es el grupo de agentes orgánicos, animados o inanimados como los hongos, virus, bacterias, parásitos, pelos, plumas polen, entre otros, presentes en determinados ambientes laborales que pueden desencadenar enfermedades infectocontagiosas, reacciones alérgicas o intoxicaciones al ingresar al organismo.
-          .tarjeta.bg_4.p-4.tb_6(titulo="Peligro de tránsito")
+          .tarjeta.bg_4.p-4.tb_6(titulo="Peligro <br>de tránsito")
             h4 Peligro de tránsito
             p Son aquellas amenazas a las que están expuestas las personas que por el desarrollo de su labor se desplazan en diferentes vías donde hay vehículos en circulación.
-          .tarjeta.bg_4.p-4.tb_7(titulo="Peligro público")
+          .tarjeta.bg_4.p-4.tb_7(titulo="Peligro<br> público")
             h4 Peligro público
             p Son las circunstancias de origen social y externas a la empresa, a las que se pueden ver enfrentadas las personas por el desarrollo de su labor.
       .col-lg-4

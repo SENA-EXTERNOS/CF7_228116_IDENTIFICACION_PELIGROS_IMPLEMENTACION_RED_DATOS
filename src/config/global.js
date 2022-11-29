@@ -156,7 +156,7 @@ export default {
       referencia:
         'Buitrón, L. S. Garzón, L., Palechor J. (2018). Metodología para la implementación del aseguramiento de calidad en los productos software, desarrollados por aprendices del SENA. Recuperado',
       tipo: 'Libro',
-      descarga: '/downloads/Metodologia_implementacion_aseguramiento',
+      descarga: '/downloads/Metodologia_implementacion_aseguramiento.pdf',
     },
     {
       tema: 'Modelo de Riesgos de un Proyecto TIC',
@@ -215,7 +215,7 @@ export default {
     {
       termino: 'Trabajador',
       significado:
-        'persona que realiza trabajo o actividades relacionadas con el trabajo que están bajo el control de la organización,',
+        'persona que realiza trabajo o actividades relacionadas con el trabajo que están bajo el control de la organización.',
     },
     {
       termino: 'Valoración de los riesgos',
