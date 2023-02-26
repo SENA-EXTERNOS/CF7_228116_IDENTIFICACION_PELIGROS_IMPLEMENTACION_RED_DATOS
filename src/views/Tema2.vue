@@ -12,14 +12,15 @@
         .col-lg-3
         .col-lg-9.mb-4.mb-md-0
           .bg_5.p-3
-            p.mb-0.text-small La responsabilidad civil consiste en la obligación de restituir el bien, reparar o indemnizar por los daños o perjuicios que los hechos hayan podido provocar. Así pues, las normas que regulan la responsabilidad civil se orientan, a la satisfacción de un interés privado del titular, la persona física o jurídica que haya resultado perjudicada por la comisión de los delitos. La indemnización o reparación en este aspecto es de tipo económica, de tal forma que se trata de resarcir el daño que se hace, cuantificado de una manera monetaria que se le dará al afectado. Para que esta responsabilidad se genere, debe comprobarse la culpa o negligencia de quien ha ocasionado el daño. En el Código Civil Colombiano (2022), se regula la responsabilidad común por los delitos y culpas. 
+            p.mb-0.text-small La responsabilidad civil consiste en la obligación de restituir el bien, reparar o indemnizar por los daños o perjuicios que los hechos hayan podido provocar. Así pues, las normas que regulan la responsabilidad civil se orientan, a la satisfacción de un interés privado del titular, la persona física o jurídica que haya resultado perjudicada por la comisión de los delitos. La indemnización o reparación en este aspecto es de tipo económica, de tal forma que se trata de resarcir el daño que se hace, cuantificado de una manera monetaria que se le dará al afectado. Para que esta responsabilidad se genere, debe comprobarse la culpa o negligencia de quien ha ocasionado el daño. En el Código Civil Colombiano (2022), se regula la responsabilidad común por los delitos y culpas.
 
     .caj_1
       .bloque-texto-b.color-primario.p-4
         .bloque-texto-b__texto
-          p De acuerdo al Código Civil Colombiano (2022), en su artículo 2343, toda persona que cause un daño está obligada a indemnizar al afectado. Esta obligación se extiende a los herederos del causante. Sin embargo, quienes reciban provecho del dolo, aun cuando no haya tenido participación, también son responsables. No obstante, esta obligación solo se extiende hasta la concurrencia del valor reportado. La responsabilidad civil se evidencia en la celebración de un contrato. Cuando una de las partes incumple una cláusula, o bien todo el acuerdo, se produce un daño a la contraparte, inmediatamente se genera una responsabilidad civil.
+          p Según el artículo 2343 del Código Civil colombiano (2022), quien causa un daño tiene la obligación de indemnizar al perjudicado. Esta obligación se aplica a los herederos del difunto. Pero los que se benefician del fraude, aunque no hayan participado, también son responsables. Sin embargo, esta obligación sólo se aplica a la ocurrencia de los valores informados. La responsabilidad civil se prueba por la ejecución del contrato. La responsabilidad civil surge inmediatamente si una de las partes incumple cualquier disposición o la totalidad del contrato, causando perjuicios a la otra parte.
 
     p.px-4.mb-5 También es posible que la responsabilidad civil nazca de un daño ocasionado, sin que haya un contrato de por medio. A este respecto, se originan varios tipos de responsabilidad civil:
+
 
     .row.mb-5.align-items-center
       .col-lg-7.mb-4.mb-md-0
@@ -85,7 +86,7 @@
         img.img-a(src='@/assets/curso/temas/tema_2/img_4.png', alt='Texto que describa la imagen')
 
     .row.justify-content-center.mb-5
-      .col-lg-7    
+      .col-lg-7
         .cajon.color-acento-contenido.p-4
           p.mb-0 Con base en lo anterior, se puede precisar que la responsabilidad penal es la obligación que tiene un integrante de la sociedad, respecto a otros miembros o al grupo en su conjunto. Esto quiere decir que aquello que hace una persona, puede tener consecuencias, ya sean negativas o positivas, en la comunidad, de tal forma que el sujeto debe responder por ellas.
 
