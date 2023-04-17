@@ -18,8 +18,7 @@
     p.mb-5 En el ambiente del proceso de instalación de redes, tanto las eléctricas como de datos, los peligros son latentes, es por esto la importancia que se conozcan a cuáles se va a estar expuestos en los procesos de actualización tecnológica.
 
 
-    #t_1_1.titulo-segundo.color-acento-contenido.mt-5
-      h2 Identificación de peligros
+    h2.mb-3 Identificación de peligros
 
     .row.justify-content-center.mb-3
       .col-lg-5.mb-4.mb-md-0(data-aos="fade-right")
@@ -63,7 +62,7 @@
         .tarjeta.color-acento-botones.p-3(x="98%" y="70%" numero="+")
           p.mb-0 Cambios en el conocimiento y la información sobre las amenazas.
     
-    h2 Clasificación de peligros
+    h2.mb-3 Clasificación de peligros
 
     p.mb-5 La definición de las amenazas, se establece según la ocurrencia del evento, un peligro latente y, el peligro potencial, que se pueden presentar en algún momento de los montajes de plataformas tecnológicas.
 
@@ -124,12 +123,12 @@
         img.img-a(src='@/assets/curso/temas/tema_1/img_8.png', alt='Texto que describa la imagen')
 
 
-    figure
+    figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4SoE2uWvQdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     
-    h2 Tipos de riesgos
+    h2.mb-3 Tipos de riesgos
 
     .fondo-3.p-4(data-aos="flip-left").mb-5
       .row.align-items-center
@@ -209,7 +208,7 @@
             i.fas.fa-check
             | Riesgos puros o especulativos.
 
-    h2 Valoración de riesgos
+    h2.mb-3 Valoración de riesgos
 
     .row.mb-5
       .col-lg-8.mb-4.mb-md-0
@@ -221,7 +220,7 @@
 
     p.mb-5 Para realizar esta etapa de valoración e identificación de riesgos y peligros de una forma sistémica, se deben desarrollar las siguientes actividades:
 
-    .bg_7.p-4
+    .bg_7.p-4.mb-5
       .row
         .col-lg-6.mb-4.mb-md-0
           ol.lista-ol--cuadro.lista-ol--separador
@@ -275,7 +274,7 @@
                 span j
               | Con base en la metodología adoptada en el sistema de salud y seguridad en el trabajo en la organización, se establece la valoración de los riesgos.
 
-    h2 Medidas de control de riesgos
+    h2.mb-3 Medidas de control de riesgos
 
     .bg_8.mb-5(data-aos="fade-up")
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-4.bg_1
@@ -312,7 +311,7 @@
       .col-lg-5
         img.img-a(src='@/assets/curso/temas/tema_1/img_12.png', alt='Texto que describa la imagen')
 
-    h2 Verificación de controles de riesgos
+    h2.mb-3 Verificación de controles de riesgos
 
     .row.mb-5
       .col-lg-4.mb-4.mb-md-0(data-aos="fade-up-right")
