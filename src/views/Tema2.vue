@@ -12,7 +12,7 @@
         .col-lg-3
         .col-lg-9.mb-4.mb-md-0
           .bg_5.p-3
-            p.mb-0.text-small La responsabilidad civil consiste en la obligación de restituir el bien, reparar o indemnizar por los daños o perjuicios que los hechos hayan podido provocar. Así pues, las normas que regulan la responsabilidad civil se orientan, a la satisfacción de un interés privado del titular, la persona física o jurídica que haya resultado perjudicada por la comisión de los delitos. La indemnización o reparación en este aspecto es de tipo económica, de tal forma que se trata de resarcir el daño que se hace, cuantificado de una manera monetaria que se le dará al afectado. Para que esta responsabilidad se genere, debe comprobarse la culpa o negligencia de quien ha ocasionado el daño. En el Código Civil Colombiano (2022), se regula la responsabilidad común por los delitos y culpas.
+            p.mb-0 La responsabilidad civil consiste en la obligación de restituir el bien, reparar o indemnizar por los daños o perjuicios que los hechos hayan podido provocar. Así pues, las normas que regulan la responsabilidad civil se orientan, a la satisfacción de un interés privado del titular, la persona física o jurídica que haya resultado perjudicada por la comisión de los delitos. La indemnización o reparación en este aspecto es de tipo económica, de tal forma que se trata de resarcir el daño que se hace, cuantificado de una manera monetaria que se le dará al afectado. Para que esta responsabilidad se genere, debe comprobarse la culpa o negligencia de quien ha ocasionado el daño. En el Código Civil Colombiano (2022), se regula la responsabilidad común por los delitos y culpas.
 
     .caj_1
       .bloque-texto-b.color-primario.p-4
@@ -44,7 +44,7 @@
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_3.png')})`}"
         )
-        .bloque-texto-g__texto.p-4.text-small
+        .bloque-texto-g__texto.p-4
           p La responsabilidad en un país también se encuentra regido por la norma y la responsabilidad penal.
           <br>
           <br>
