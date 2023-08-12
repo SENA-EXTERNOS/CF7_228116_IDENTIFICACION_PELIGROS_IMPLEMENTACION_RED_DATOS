@@ -176,10 +176,7 @@
         ul.lista-ul.mb-0
           li
             i.fas.fa-check
-            | Riesgos del azar, catastróficos o
-          li
-            i.fas.fa-check
-            | extraordinarios.
+            | Riesgos del azar, catastróficos o extraordinarios.
           li
             i.fas.fa-check
             | Riesgos políticos.
