@@ -45,7 +45,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_3.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p La responsabilidad en un país también se encuentra regido por la norma y la responsabilidad penal.
+          p La responsabilidad en un país también se encuentra regida por la norma y la responsabilidad penal.
           <br>
           <br>
           p Norma: en cada país, hay un código que establece las normas que regulan la responsabilidad civil, en el caso de Colombia, es el código civil colombiano (2022). Este es un conjunto de normas legales unitarias, sistematizadas y ordenadas sobre el derecho privado. Por lo tanto, se trata de un texto legal que regula las relaciones civiles entre las personas (tanto físicas como jurídicas).
@@ -60,25 +60,25 @@
         .bloque-texto-b__texto
           p En esta responsabilidad se define la imposición de una pena, que bien puede ser privativa de libertad (como la pena de prisión o la localización permanente), privativa de otros derechos (como el derecho a portar armas, el derecho a conducir vehículos a motor, el derecho a residir en un lugar determinado, entre otros), pudiendo también consistir dicha pena en una multa pecuniaria.
 
-    p.mb-5 Tipos de responsabilidad penal:
+    h3.mb-5 Tipos de responsabilidad penal:
 
     .row.mb-5(data-aos="zoom-out-down")
       .col-lg-8.mb-4.mb-md-0
-        TabsA.color-acento-botones.mb-5
+        TabsA.color-acento-botones.mb-5.align-items-center
           .tarjeta.bg_4.p-4(titulo="Común")
             h4 Común
             p.mb-0 Cuando el delito cometido puede ser realizado por cualquier individuo, como, por ejemplo: el robo, el abuso sexual o el homicidio.
           .tarjeta.bg_4.p-4.tb(titulo="Especial")
             h4 Especial
             p.mb-0 Cuando el delito es cometido por un funcionario público aprovechándose de su condición, por ejemplo: el peculado (malversación de caudales públicos), la prevaricación o la concusión.
-          .tarjeta.bg_4.p-4.tb_1(titulo="Norma de responsabilidad penal")
+          .tarjeta.bg_4.p-4(titulo="Norma de responsabilidad penal")
             h4 Norma de responsabilidad penal
             p.mb-0 Las normas son el conjunto de reglas que conforman el marco de la responsabilidad, se denomina Código penal colombiano (2022). Es un código que recoge las penas aplicables a toda persona que cometa algún delito. Al igual que otro tipo de códigos (como el Código civil), se caracteriza por contener de manera sistemática y unitaria un grupo de reglas legales sobre una materia concreta. En el Código penal se definen los actos que están tipificados como delitos y se determinan las penas que corresponden.
-          .tarjeta.bg_4.p-4.tb_2(titulo="Responsabilidad administrativa")
+          .tarjeta.bg_4.p-4(titulo="Responsabilidad administrativa")
             h4 Responsabilidad administrativa
             p Se define responsabilidad administrativa como el deber de responder por daños o perjuicios causados por una infracción en el cumplimiento de una norma. Las acciones de la administración generan riesgos, y posibles daños sobre las personas. Para que esos daños residuales se cubran cuando son procurados pero inevitables, se configura la responsabilidad administrativa. Exigir la responsabilidad administrativa es la aplicación del Estado de derecho, quien impone al ordenamiento jurídico que sea garantizador. Se funda en el principio de solidaridad, ya que no es justo que un solo sujeto lesionado en sus derechos, haga frente a consecuencias lesivas que deriven de los actos del poder público.
             p.mb-0 En el caso de las entidades privadas, su órgano director es el que define las acciones que generan responsabilidad administrativa y que se deben subsanar como consecuencia de algún incumplimiento de esta índole. En el caso de la función pública, hay un marco general de leyes que abarcan y regulan los comportamientos y actuaciones de los empleados públicos, y las consecuencias administrativas y punitivas de estos.
-          .tarjeta.bg_4.p-4.tb_3(titulo="Responsabilidad social")
+          .tarjeta.bg_4.p-4(titulo="Responsabilidad social")
             h4 Responsabilidad social
             p.mb-0 La responsabilidad social establece una percepción positiva o negativa de un individuo o grupo y el impacto que tiene su interacción con la sociedad. En esta hay una correlación directa con la ética y la moral, dado que las decisiones que toman tanto los individuos como las sociedades o grupos en general tienen consecuencias sobre el resto y hay que desarrollar una conciencia de conjunto.
 

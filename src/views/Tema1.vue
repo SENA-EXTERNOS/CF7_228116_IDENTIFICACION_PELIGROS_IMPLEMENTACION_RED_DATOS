@@ -28,7 +28,7 @@
 
         .bg_2.p-2
           p La identificación de peligros es uno de los principales pilares del desarrollo de un sistema de gestión de seguridad y salud en el trabajo, convirtiéndose en uno de los insumos para la identificación y determinación de las acciones a tomar para prevenir accidentes o enfermedades.
-        p.p-2 En el proceso de identificación de amenazas, la capacidad de visualizar un panorama global de actividades, regiones, ubicaciones y número de personas afectadas por un determinado tipo de amenaza se aclara y es clave en la evaluación. La evaluación de riesgos determina qué tipos de amenazas deben priorizarse. dependiendo de las circunstancias de su impacto o probabilidades. Entre los errores más comunes a la hora de realizar actividades que tienen como objetivo identificar estos se encuentran realizar u omitir inadvertidamente muchas actividades que normalmente no se realizan.
+        p.p-2 En el proceso de identificación de amenazas, la capacidad de visualizar un panorama global de actividades, regiones, ubicaciones y número de personas afectadas por un determinado tipo de amenaza es clave en la evaluación. La evaluación de riesgos determina qué tipos de amenazas deben priorizarse. dependiendo de las circunstancias de su impacto o probabilidades, Entre los errores más comunes a la hora de realizar actividades que tienen como objetivo identificar estas, se encuentran realizar u omitir inadvertidamente muchas actividades que normalmente no se realizan.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -91,7 +91,7 @@
 
     .row.mb5
       .col-lg-8.mb-4.mb-md-0
-        TabsA.color-acento-botones.mb-5
+        TabsA.color-acento-botones
           .tarjeta.bg_4.p-4(titulo="Peligro<br> mecánico")
             h4 Peligro mecánico
             p Es el conjunto de condiciones que, en el momento de presentarse, pueden dar lugar a una lesión por manipulación de máquinas que estén en movimiento, herramientas, piezas de trabajo o materiales sólidos o fluidos
@@ -123,7 +123,7 @@
         img.img-a(src='@/assets/curso/temas/tema_1/img_8.png', alt='Texto que describa la imagen')
 
 
-    figure.mb-5
+    figure.my-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4SoE2uWvQdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
@@ -287,7 +287,7 @@
       .col-lg-7.mb-4.mb-md-0
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Eliminación del riesgo")
-            p.mb-0 Esta es la etapa ideal donde la organización puede controlar el riesgo. Este enfoque requiere detener o iniciar actividades o procesos relacionados con el riesgo para eliminarlo completamente. Por ejemplo, el uso de una sustancia peligrosa puede ser riesgosa. Cuando una sustancia se elimina del proceso de fabricación, desaparece, sin embargo, esto puede implicar rediseñar el proceso de fabricación, lo que no siempre es posible, por que implica costos desproporcionadamente altos.
+            p.mb-0 Esta es la etapa ideal donde la organización puede controlar el riesgo. Este enfoque requiere detener o iniciar actividades o procesos relacionados con el riesgo para eliminarlo completamente. Por ejemplo, el uso de una sustancia peligrosa puede ser riesgosa. Cuando una sustancia se elimina del proceso de fabricación, desaparece, sin embargo, esto puede implicar rediseñar el proceso de fabricación, lo que no siempre es posible, porque implica costos desproporcionadamente altos.
 
           div(titulo="Sustituir el riesgo")
             p.mb-0 En el caso de no poder eliminar el riesgo, se debe pasar al siguiente nivel de control de riesgos. Es decir, se debe buscar otro método u otro proceso que sea menos riesgoso. Puede incluir la sustitución de tareas, procesos, maquinarias o sustancias, que cumplan función análoga, pero que no representen un riesgo, o por lo menos, que sea menor.
